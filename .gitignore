@@ -1,2 +1,3 @@
-tables/
 .idea
+.DS_Store
+venv/
